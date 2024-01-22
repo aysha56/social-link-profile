@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [My Solution](https://github.com/aysha56/calculator-app)
-- Live Site URL: [My website](https://calculator-app-aysha.netlify.app/)
+- Solution URL: [My Solution](https://github.com/aysha56/social-link-profile)
+- Live Site URL: [My website](https://social-link-profile-aysha.netlify.app/)
 
 ## My process
 
